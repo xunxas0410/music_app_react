@@ -29,7 +29,20 @@ function App() {
       artist: "崔有華",
       img_src: "./images/Ashnikko-Daisy.jpg",
       src: "./songs/39.mp3"
-    }
+    },
+    {
+      title: "溫柔的慧星",
+      artist: "ikura",
+      img_src: "./images/Ashnikko-Daisy.jpg",
+      src: "./songs/温柔的彗星.mp3"
+    },
+    {
+      title: "群星",
+      artist: "幾田莉拉",
+      img_src: "./images/Ashnikko-Daisy.jpg",
+      src: "./songs/群星.mp3"
+    },
+    
   ]);
 
   const [currentSongIndex, setCurrentSongIndex] = useState(0);
