@@ -40,7 +40,7 @@ function App() {
       title: "群星",
       artist: "幾田莉拉",
       img_src: "./images/Ashnikko-Daisy.jpg",
-      src: "./songs/群星.mp3"
+      src: "./songs/群青.mp3"
     },
     
   ]);
